@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7f0fea5-95ac-444d-910c-1d89f6a21cdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/TodoListRepositoryDblmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/handson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/TodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/TodoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/TodoListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/TodoListRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/TodoListRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/TodoListRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/TodoListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TodoListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/TodoListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TodoListServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/TodoListTerminalViewImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/TodoListTerminalViewImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/TodoListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/TodoListView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;2381059&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/2381059/handson.git&quot;,
+    &quot;accountId&quot;: &quot;7f2ce1f7-da6e-44a7-9ee2-219b93af1d6a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/repositories/TodoListRepositoryImpl.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oJoA8HOs69hugBEPFL2tpQNboB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Windows&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LENOV/IdeaProjects/handson/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f0fea5-95ac-444d-910c-1d89f6a21cdc" name="Changes" comment="" />
+      <created>1730596897524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730596897524</updated>
+    </task>
+    <servers />
+  </component>
+</project>
